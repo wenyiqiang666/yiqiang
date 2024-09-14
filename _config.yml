@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yiqiang Wen"
-  pronouns         :  example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Toronto,Canada"
   employer         : "Red Brick University"
